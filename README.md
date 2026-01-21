@@ -8,7 +8,7 @@
 |Geomstats | computations, statistics, and machine learning on nonlinear manifolds using Riemannian geometry | \cite{Geomstats)| [link](https://geomstats.github.io)|
 |SAMS | Software for the Analysis and Mapping of Surfaces | \cite{ravier2018algorithms)| [link](https://github.com/RRavier/SAMS/tree/master)|
 |Neuroimaging software | There are about 600 tools designed for different datasets, and tasks starting from segmentation, to shape analysis, and time domain analysis | \cite{luo2009neuroimaging)|[link](https://www.nitrc.org/)|
-|LDDMM registration | Registration developed for cortical areas| \cite{younes2024normal)| | [link](https://bitbucket.org/laurent_younes/py-lddmm/src/master/}{\color{red}No longer available?)|
+|LDDMM registration | Registration developed for cortical areas| \cite{younes2024normal)| | [link](https://bitbucket.org/laurent_younes/pylddmm/src/master/}|
 |SlicerMorph | SlicerMorph streamlines digital morphology research by enabling effortless data import, visualization, measurement, annotation, and geometric morphometric analysis on 3D data, including volumetric scans (CTs and MRs) and 3D surface scans, all within the 3D Slicer application | \cite{rolfe_slicermorph_2021)| |[link](https://slicermorph.github.io)|
 |geomorph | Widely used R package for multivariate analysis with shape data | \cite{adams_geomorph_2021)| |[link](https://cran.r-project.org/web/packages/geomorph/index.html)|
 |MorphoJ | GUI platform for multivariate analysis with shape data, such as partial least squares, asymmetry and quantitative genetics | \cite{klingenberg_morphoj_2011)| |[link](https://morphometrics.uk/MorphoJ_page.html)|
