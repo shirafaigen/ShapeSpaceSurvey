@@ -27,6 +27,7 @@
 |u-Signal3D | morphology-invariant analysis of molecular organization | \cite{mazloom2023cellular)|  [link](https://github.com/DanuserLab/u-signal3D)|
 |u-Shape3D | 3D Morphological Motif Detection | \cite{driscoll2019robust)|  [link](https://github.com/DanuserLab/u-shape3D)|
 
+<!--
 
 Additional code:
 
@@ -57,3 +58,4 @@ Additional code:
 
 \item [link](https://bitbucket.org/laurent_younes/py-lddmm/src/master/	}
 \item https://github.com/awesomelistsio/awesome-ai-research-papers
+-->
