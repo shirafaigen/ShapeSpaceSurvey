@@ -1,10 +1,20 @@
 # ShapeSpaceSurvey
 
+This is the suppoerting information of the paper: "Learning the Geometry of Data: \\A Mathematical Review of Shape Space Analysis", by Gary P. T. Choi, Khanh Dao Duc, Shira Faigenbaum-Golovin, Karen Habermann, Emmanuel Hartman, Christoph von Tycowicz, Chi Zhang, Wenjun Zhao, Felix Zhou
+
+
+A central objective of machine learning is to identify structure and patterns in data. Advances in data acquisition have increasingly produced datasets whose observations possess rich geometric form, giving rise to shape spaces that encode variability in object geometry. Such datasets arise across a wide range of disciplines, including biology, medicine, anthropology, and computer vision, where subtle geometric differences often carry important scientific information. Traditional machine learning methods, however, are frequently ill-equipped to account for the nonlinear geometric structure underlying these data. This survey synthesizes a rapidly growing body of work on shape space analysis, which provides a mathematical and computational framework for the study of geometric data. Drawing on ideas from differential geometry, statistics, and machine learning, we organize the literature around a common analytical pipeline: shape representation and parameterization, the rigorous construction of robust geodesic metrics, statistical analysis on shape spaces, and geometry-aware learning methods. We discuss how these tools enable the characterization of shape variability, the comparison of geometric objects, and the analysis of structural trajectories across populations and time. To illustrate the breadth of the field, we highlight applications spanning multiple scales of biological organization, including studies of subcellular morphology and primate tooth evolution. Across these and many other domains, researchers face common challenges arising from complex, nonlinear, and often unaligned geometric variation. The review concludes by identifying key theoretical and computational challenges, as well as emerging opportunities driven by increasingly large and diverse geometric datasets.
+
+
+A wide range of problems in shape space have been studied - each motivated by the specific challenges posed by particular datasets (see Section \ref{sec:datasets}). We aimed to provide an extensive list of the existing tools for others to apply them easily. However, the breadth of available methodological tools is far too extensive to be exhaustively covered in this paper. In particular, the rapidly growing body of machine learning–based approaches has produced a long and continually expanding list of relevant contributions. Rather than attempting an incomplete survey, we decided to maintain a more comprehensive and regularly updated list of related methods and references in a dedicated GitHub repository.
+
+A living index of available tools and resources. Last updated: Sep 1 2026.
+
 # Shape space tools
 
 | <div style="width: 20px;">Name</div> | Short description | Ref. | Link|
 | :--- | :--- |--- |--- |
-|SlicerSALT | disseminating advanced shape methodology, quantitative analysis of shapes | \cite{vicory2023slicersalt)|  [link](https://www.kitware.com/slicersalt-3-0-released/)|
+|SlicerSALT | disseminating advanced shape methodology, quantitative analysis of shapes | [^1]|  [link](https://www.kitware.com/slicersalt-3-0-released/)|
 |Geomstats | computations, statistics, and machine learning on nonlinear manifolds using Riemannian geometry | \cite{Geomstats)| [link](https://geomstats.github.io)|
 |SAMS | Software for the Analysis and Mapping of Surfaces | \cite{ravier2018algorithms)| [link](https://github.com/RRavier/SAMS/tree/master)|
 |Neuroimaging software | There are about 600 tools designed for different datasets, and tasks starting from segmentation, to shape analysis, and time domain analysis | \cite{luo2009neuroimaging)|[link](https://www.nitrc.org/)|
@@ -27,6 +37,7 @@
 |u-Signal3D | morphology-invariant analysis of molecular organization | \cite{mazloom2023cellular)|  [link](https://github.com/DanuserLab/u-signal3D)|
 |u-Shape3D | 3D Morphological Motif Detection | \cite{driscoll2019robust)|  [link](https://github.com/DanuserLab/u-shape3D)|
 
+[^1]:\cite{vicory2023slicersalt)
 <!--
 
 Additional code:
