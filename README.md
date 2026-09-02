@@ -16,7 +16,7 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 | :--- | :--- |--- |--- |
 |SlicerSALT | disseminating advanced shape methodology, quantitative analysis of shapes | [^1]|  [link](https://www.kitware.com/slicersalt-3-0-released/)|
 |Geomstats | computations, statistics, and machine learning on nonlinear manifolds using Riemannian geometry | [^2]| [link](https://geomstats.github.io)|
-|SAMS | Software for the Analysis and Mapping of Surfaces | \cite{ravier2018algorithms)| [link](https://github.com/RRavier/SAMS/tree/master)|
+|SAMS | Software for the Analysis and Mapping of Surfaces |[^13]| [link](https://github.com/RRavier/SAMS/tree/master)|
 |Neuroimaging software | There are about 600 tools designed for different datasets, and tasks starting from segmentation, to shape analysis, and time domain analysis | [^3] |[link](https://www.nitrc.org/)|
 |LDDMM registration | Registration developed for cortical areas|[^4] | | [link](https://bitbucket.org/laurent_younes/pylddmm/src/master/}|
 |SlicerMorph | SlicerMorph streamlines digital morphology research by enabling effortless data import, visualization, measurement, annotation, and geometric morphometric analysis on 3D data, including volumetric scans (CTs and MRs) and 3D surface scans, all within the 3D Slicer application | [^5] |[link](https://slicermorph.github.io)|
@@ -58,7 +58,7 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 [^10]: Yezzi-Woodley, Katrina, Jeff Calder, Peter J. Olver, Paige Cody, Thomas Huffstutler, Alexander Terwilliger, J. Anne Melton, Martha Tappen, Reed Coil, and Gilbert Tostevin. "The Virtual Goniometer: A new method for measuring angles on 3D models of fragmentary bone and lithics: demonstrating a new method for measuring angles on archaeological materials using fragmentary bone." Archaeological and Anthropological Sciences 13, no. 7 (2021): 1-16.
 [^11]:O'Neill, Riley CW, Katrina Yezzi-Woodley, Jeff Calder, and Peter J. Olver. "En masse scanning and automated surfacing of small objects using Micro-CT." arXiv preprint arXiv:2410.07385 (2024).
 [^12]:Boyer, Doug M., Jesus Puente, Justin T. Gladman, Chris Glynn, Sayan Mukherjee, Gabriel S. Yapuncich, and Ingrid Daubechies. "A new fully automated approach for aligning and comparing shapes." The Anatomical Record 298, no. 1 (2015): 249-276.
-[^8]:
+[^13]:Ravier, Robert J. "Eyes on the Prize: Improved Biological Surface Registration via Forward Propagation." arXiv preprint arXiv:1812.10592 (2018).
 
 <!--
 
