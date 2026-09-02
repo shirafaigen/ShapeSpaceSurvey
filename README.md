@@ -37,7 +37,10 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 |u-Signal3D | morphology-invariant analysis of molecular organization | \cite{mazloom2023cellular)|  [link](https://github.com/DanuserLab/u-signal3D)|
 |u-Shape3D | 3D Morphological Motif Detection | \cite{driscoll2019robust)|  [link](https://github.com/DanuserLab/u-shape3D)|
 
-[^1]:\cite{vicory2023slicersalt)
+[^1]: Vicory, Jared, Ye Han, Juan Carlos Prieto, David Allemang, Mathieu Leclercq, Connor Bowley, Harald Scheirich et al. "SlicerSALT: from medical images to quantitative insights of anatomy." In International Workshop on Shape in Medical Imaging, pp. 201-210. Cham: Springer Nature Switzerland, 2023.
+
+
+
 <!--
 
 Additional code:
