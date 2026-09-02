@@ -20,7 +20,7 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 |Neuroimaging software | There are about 600 tools designed for different datasets, and tasks starting from segmentation, to shape analysis, and time domain analysis | [^3] |[link](https://www.nitrc.org/)|
 |LDDMM registration | Registration developed for cortical areas|[^4] | | [link](https://bitbucket.org/laurent_younes/pylddmm/src/master/}|
 |SlicerMorph | SlicerMorph streamlines digital morphology research by enabling effortless data import, visualization, measurement, annotation, and geometric morphometric analysis on 3D data, including volumetric scans (CTs and MRs) and 3D surface scans, all within the 3D Slicer application | [^5] |[link](https://slicermorph.github.io)|
-|geomorph | Widely used R package for multivariate analysis with shape data | [^6]| |[link](https://cran.r-project.org/web/packages/geomorph/index.html)|
+|geomorph | Widely used R package for multivariate analysis with shape data | [^6]| |[View Report](https://cran.r-project.org/web/packages/geomorph/index.html)|
 |MorphoJ | GUI platform for multivariate analysis with shape data, such as partial least squares, asymmetry and quantitative genetics | [^7]| |[link](https://morphometrics.uk/MorphoJ_page.html)|
 |Morpho | R package for multivariate analysis with shape data, including discriminant analysis, polygon model deformation, permutation tests, detection of outliers, sliding semi-landmarks, in- and export of models  | [^8]| |[link](https://cran.r-project.org/web/packages/Morpho/index.html)|
 |CT-Surfacing | Segment and create 3D models using a medical CT scanner | [^9]| |[link](https://github.com/jwcalder/CT-Surfacing)|
