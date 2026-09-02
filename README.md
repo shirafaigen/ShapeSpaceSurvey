@@ -15,17 +15,17 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 | <div style="width: 20px;">Name</div> | Short description | Ref. | Link|
 | :--- | :--- |--- |--- |
 |SlicerSALT | disseminating advanced shape methodology, quantitative analysis of shapes | [^1]|  [link](https://www.kitware.com/slicersalt-3-0-released/)|
-|Geomstats | computations, statistics, and machine learning on nonlinear manifolds using Riemannian geometry | \cite{Geomstats)| [link](https://geomstats.github.io)|
+|Geomstats | computations, statistics, and machine learning on nonlinear manifolds using Riemannian geometry | [^2]| [link](https://geomstats.github.io)|
 |SAMS | Software for the Analysis and Mapping of Surfaces | \cite{ravier2018algorithms)| [link](https://github.com/RRavier/SAMS/tree/master)|
-|Neuroimaging software | There are about 600 tools designed for different datasets, and tasks starting from segmentation, to shape analysis, and time domain analysis | \cite{luo2009neuroimaging)|[link](https://www.nitrc.org/)|
-|LDDMM registration | Registration developed for cortical areas| \cite{younes2024normal)| | [link](https://bitbucket.org/laurent_younes/pylddmm/src/master/}|
-|SlicerMorph | SlicerMorph streamlines digital morphology research by enabling effortless data import, visualization, measurement, annotation, and geometric morphometric analysis on 3D data, including volumetric scans (CTs and MRs) and 3D surface scans, all within the 3D Slicer application | \cite{rolfe_slicermorph_2021)| |[link](https://slicermorph.github.io)|
-|geomorph | Widely used R package for multivariate analysis with shape data | \cite{adams_geomorph_2021)| |[link](https://cran.r-project.org/web/packages/geomorph/index.html)|
-|MorphoJ | GUI platform for multivariate analysis with shape data, such as partial least squares, asymmetry and quantitative genetics | \cite{klingenberg_morphoj_2011)| |[link](https://morphometrics.uk/MorphoJ_page.html)|
-|Morpho | R package for multivariate analysis with shape data, including discriminant analysis, polygon model deformation, permutation tests, detection of outliers, sliding semi-landmarks, in- and export of models  | \cite{)| |[link](https://cran.r-project.org/web/packages/Morpho/index.html)|
-|CT-Surfacing | Segment and create 3D models using a medical CT scanner | \cite{yezzi2022batch)| |[link](https://github.com/jwcalder/CT-Surfacing)|
-|Virtual Goniometer| measuring angles on 3D models | \cite{yezzi2020virtual, o2024masse)| [link](https://amaaze.umn.edu/software), [link](https://github.com/oneil571/AMAAZE-MCT-Processing)|
-|Auto3dgm | Alignment of 3D shapes, by matching their PCA principal axis, and applying  minimum spanning tree on the shape distances | \cite{boyer2015new)| [link](https://github.com/ToothAndClaw/Auto3dgm_Python)|
+|Neuroimaging software | There are about 600 tools designed for different datasets, and tasks starting from segmentation, to shape analysis, and time domain analysis | [^3] |[link](https://www.nitrc.org/)|
+|LDDMM registration | Registration developed for cortical areas|[^4] | | [link](https://bitbucket.org/laurent_younes/pylddmm/src/master/}|
+|SlicerMorph | SlicerMorph streamlines digital morphology research by enabling effortless data import, visualization, measurement, annotation, and geometric morphometric analysis on 3D data, including volumetric scans (CTs and MRs) and 3D surface scans, all within the 3D Slicer application | [^5] |[link](https://slicermorph.github.io)|
+|geomorph | Widely used R package for multivariate analysis with shape data | [^6]| |[link](https://cran.r-project.org/web/packages/geomorph/index.html)|
+|MorphoJ | GUI platform for multivariate analysis with shape data, such as partial least squares, asymmetry and quantitative genetics | [^7]| |[link](https://morphometrics.uk/MorphoJ_page.html)|
+|Morpho | R package for multivariate analysis with shape data, including discriminant analysis, polygon model deformation, permutation tests, detection of outliers, sliding semi-landmarks, in- and export of models  | [^8]| |[link](https://cran.r-project.org/web/packages/Morpho/index.html)|
+|CT-Surfacing | Segment and create 3D models using a medical CT scanner | [^9]| |[link](https://github.com/jwcalder/CT-Surfacing)|
+|Virtual Goniometer| measuring angles on 3D models | [^10], [^11])| [link](https://amaaze.umn.edu/software), [link](https://github.com/oneil571/AMAAZE-MCT-Processing)|
+|Auto3dgm | Alignment of 3D shapes, by matching their PCA principal axis, and applying  minimum spanning tree on the shape distances | [^12]| [link](https://github.com/ToothAndClaw/Auto3dgm_Python)|
 |Morphomatics | Riemannian shape spaces and geometric machine learning
 |BioEncoder | supervised metric learning | \cite{x)| [link](https://github.com/agporto/BioEncoder)|
 |ALPACA | Fast landmark transfer from a 3D model and its associated landmark set to target 3D model | \cite{x)| [link](https://github.com/SlicerMorph/SlicerMorph)|
@@ -39,7 +39,26 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 
 [^1]: Vicory, Jared, Ye Han, Juan Carlos Prieto, David Allemang, Mathieu Leclercq, Connor Bowley, Harald Scheirich et al. "SlicerSALT: from medical images to quantitative insights of anatomy." In International Workshop on Shape in Medical Imaging, pp. 201-210. Cham: Springer Nature Switzerland, 2023.
 
+[^2]: Miolane, Nina, Nicolas Guigui, Alice Le Brigant, Johan Mathe, Benjamin Hou, Yann Thanwerdas, Stefan Heyder et al. "Geomstats: A python package for riemannian geometry in machine learning." Journal of Machine Learning Research 21, no. 223 (2020): 1-9.
 
+[^3]: Luo, Xiao-zhong James, David N. Kennedy, and Zohara Cohen. "Neuroimaging informatics tools and resources clearinghouse (NITRC) resource announcement." (2009): 55-56.
+
+[^4]:Younes, Laurent, Kwame S. Kutten, and J. Tilak Ratnanather. "Normal and equivolumetric coordinate systems for cortical areas." MethodsX 12 (2024): 102689.
+
+
+[^5]:Rolfe, Sara, Steve Pieper, Arthur Porto, Kelly Diamond, Julie Winchester, Shan Shan, Henry Kirveslahti, Doug Boyer, Adam Summers, and A. Murat Maga. "SlicerMorph: An open and extensible platform to retrieve, visualize and analyse 3D morphology." Methods in Ecology and Evolution 12, no. 10 (2021): 1816-1825.
+
+[^6]:Baken, Erica K., Michael L. Collyer, Antigoni Kaliontzopoulou, and Dean C. Adams. "geomorph v4. 0 and gmShiny: Enhanced analytics and a new graphical interface for a comprehensive morphometric experience." Methods in Ecology and Evolution 12, no. 12 (2021): 2355-2363.
+
+[^7]:Klingenberg, Christian Peter. "MorphoJ: an integrated software package for geometric morphometrics." Molecular ecology resources 11, no. 2 (2011): 353-357.
+
+[^8]:Schlager, Stefan. "Morpho and Rvcg–shape analysis in R: R-packages for geometric morphometrics, shape analysis and surface manipulations." In Statistical shape and deformation analysis, pp. 217-256. Academic Press, 2017.
+
+[^9]:Yezzi-Woodley, Katrina E., Jeff W. Calder, Mckenzie Sweno, Chloe Siewert, and Peter J. Olver. "The Batch Artifact Scanning Protocol: A new method using computed tomography (CT) to rapidly create three-dimensional models of objects from large collections en masse." Advances in Archaeological Practice 13, no. 4 (2025): 546-566.
+[^10]: Yezzi-Woodley, Katrina, Jeff Calder, Peter J. Olver, Paige Cody, Thomas Huffstutler, Alexander Terwilliger, J. Anne Melton, Martha Tappen, Reed Coil, and Gilbert Tostevin. "The Virtual Goniometer: A new method for measuring angles on 3D models of fragmentary bone and lithics: demonstrating a new method for measuring angles on archaeological materials using fragmentary bone." Archaeological and Anthropological Sciences 13, no. 7 (2021): 1-16.
+[^11]:O'Neill, Riley CW, Katrina Yezzi-Woodley, Jeff Calder, and Peter J. Olver. "En masse scanning and automated surfacing of small objects using Micro-CT." arXiv preprint arXiv:2410.07385 (2024).
+[^12]:Boyer, Doug M., Jesus Puente, Justin T. Gladman, Chris Glynn, Sayan Mukherjee, Gabriel S. Yapuncich, and Ingrid Daubechies. "A new fully automated approach for aligning and comparing shapes." The Anatomical Record 298, no. 1 (2015): 249-276.
+[^8]:
 
 <!--
 
