@@ -24,18 +24,18 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 |MorphoJ | GUI platform for multivariate analysis with shape data, such as partial least squares, asymmetry and quantitative genetics | [^7]| |[link](https://morphometrics.uk/MorphoJ_page.html)|
 |Morpho | R package for multivariate analysis with shape data, including discriminant analysis, polygon model deformation, permutation tests, detection of outliers, sliding semi-landmarks, in- and export of models  | [^8]| |[link](https://cran.r-project.org/web/packages/Morpho/index.html)|
 |CT-Surfacing | Segment and create 3D models using a medical CT scanner | [^9]| |[link](https://github.com/jwcalder/CT-Surfacing)|
-|Virtual Goniometer| measuring angles on 3D models | [^10], [^11])| [link](https://amaaze.umn.edu/software), [link](https://github.com/oneil571/AMAAZE-MCT-Processing)|
+|Virtual Goniometer| measuring angles on 3D models | [^10], [^11]| [link](https://amaaze.umn.edu/software), [link](https://github.com/oneil571/AMAAZE-MCT-Processing)|
 |Auto3dgm | Alignment of 3D shapes, by matching their PCA principal axis, and applying  minimum spanning tree on the shape distances | [^12]| [link](https://github.com/ToothAndClaw/Auto3dgm_Python)|
 |Morphomatics | Riemannian shape spaces and geometric machine learning
-|BioEncoder | supervised metric learning | \cite{x)| [link](https://github.com/agporto/BioEncoder)|
-|ALPACA | Fast landmark transfer from a 3D model and its associated landmark set to target 3D model | \cite{x)| [link](https://github.com/SlicerMorph/SlicerMorph)|
-|DeepBryo  | Deep learning-based morphometric characterization of cheilostome bryozoans | \cite{x)| [link](https://github.com/agporto/DeepBryo)|
-|ML - MORPH  | Landmarking at low cost | \cite{x)| [link](https://github.com/agporto/ml-morph)|
-|APPENDOMETER | morphometric characterization of Drosophila leg | \cite{x)|  [link](https://github.com/agporto/Appendometer)|
-|Cell Geometry | comparison of biological cell shapes | \cite{li2023using)|  [link](https://github.com/geometric-intelligence/cellgeometry/tree/main/cells/streamlit)|
-|u-unwrap3D |  map 3D surface and volume data into different representations | \cite{zhou2023surface)|  [link](https://github.com/DanuserLab/u-unwrap3D)|
-|u-Signal3D | morphology-invariant analysis of molecular organization | \cite{mazloom2023cellular)|  [link](https://github.com/DanuserLab/u-signal3D)|
-|u-Shape3D | 3D Morphological Motif Detection | \cite{driscoll2019robust)|  [link](https://github.com/DanuserLab/u-shape3D)|
+|BioEncoder | supervised metric learning | [^23]| [link](https://github.com/agporto/BioEncoder)|
+|ALPACA | Fast landmark transfer from a 3D model and its associated landmark set to target 3D model | [^21], [^22]| [link](https://github.com/SlicerMorph/SlicerMorph)|
+|DeepBryo  | Deep learning-based morphometric characterization of cheilostome bryozoans | [^20]| [link](https://github.com/agporto/DeepBryo)|
+|ML - MORPH  | Landmarking at low cost | [^19]| [link](https://github.com/agporto/ml-morph)|
+|APPENDOMETER | morphometric characterization of Drosophila leg | [^18]|  [link](https://github.com/agporto/Appendometer)|
+|Cell Geometry | comparison of biological cell shapes | [^17]|  [link](https://github.com/geometric-intelligence/cellgeometry/tree/main/cells/streamlit)|
+|u-unwrap3D |  map 3D surface and volume data into different representations | [^16]|  [link](https://github.com/DanuserLab/u-unwrap3D)|
+|u-Signal3D | morphology-invariant analysis of molecular organization | [^15]|  [link](https://github.com/DanuserLab/u-signal3D)|
+|u-Shape3D | 3D Morphological Motif Detection |[^14]|  [link](https://github.com/DanuserLab/u-shape3D)|
 
 [^1]: Vicory, Jared, Ye Han, Juan Carlos Prieto, David Allemang, Mathieu Leclercq, Connor Bowley, Harald Scheirich et al. "SlicerSALT: from medical images to quantitative insights of anatomy." In International Workshop on Shape in Medical Imaging, pp. 201-210. Cham: Springer Nature Switzerland, 2023.
 
@@ -60,6 +60,16 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 [^12]:Boyer, Doug M., Jesus Puente, Justin T. Gladman, Chris Glynn, Sayan Mukherjee, Gabriel S. Yapuncich, and Ingrid Daubechies. "A new fully automated approach for aligning and comparing shapes." The Anatomical Record 298, no. 1 (2015): 249-276.
 [^13]:Ravier, Robert J. "Eyes on the Prize: Improved Biological Surface Registration via Forward Propagation." arXiv preprint arXiv:1812.10592 (2018).
 
+[^14]: Driscoll, Meghan K., Erik S. Welf, Andrew R. Jamieson, Kevin M. Dean, Tadamoto Isogai, Reto Fiolka, and Gaudenz Danuser. "Robust and automated detection of subcellular morphological motifs in 3D microscopy images." Nature methods 16, no. 10 (2019): 1037-1044.
+[^15]: Mazloom-Farsibaf, Hanieh, Qiongjing Zou, Rebecca Hsieh, Gaudenz Danuser, and Meghan K. Driscoll. "Cellular harmonics for the morphology-invariant analysis of molecular organization at the cell surface." Nature computational science 3, no. 9 (2023): 777-788.
+[^16]:Zhou, Felix Y., Virangika K. Wimalasena, Qiongjing Zou, Andrew Weems, Gabriel M. Gihana, Edward Jenkins, Bingying Chen et al. "Surface-guided computing to quantify dynamic interactions between cell morphology and molecular signals in 3D." bioRxiv (2023): 2023-04.
+[^17]:Li, Wanxin, Ashok Prasad, Nina Miolane, and Khanh Dao Duc. "Using a Riemannian elastic metric for statistical analysis of tumor cell shape heterogeneity." In International Conference on Geometric Science of Information, pp. 583-592. Cham: Springer Nature Switzerland, 2023.
+[^18]:Rossoni, Daniela M., Connor Murray, Arthur Porto, and David Houle. "Appendometer: A system for simultaneous, high-throughput morphometry of Drosophila legs and wings." BioRxiv (2025): 2025-01.
+[^19]:Porto, Arthur, and Kjetil L. Voje. "ML‐morph: A fast, accurate and general approach for automated detection and landmarking of biological structures in images." Methods in Ecology and Evolution 11, no. 4 (2020): 500-512.
+[^20]:Di Martino, Emanuela, Björn Berning, Dennis P. Gordon, Piotr Kuklinski, Lee Hsiang Liow, Mali H. Ramsfjell, Henrique L. Ribeiro et al. "DeepBryo: A web app for AI‐assisted morphometric characterization of cheilostome bryozoans." Limnology and Oceanography: Methods 21, no. 9 (2023): 542-551.
+[^21]:Rolfe, Sara, Steve Pieper, Arthur Porto, Kelly Diamond, Julie Winchester, Shan Shan, Henry Kirveslahti, Doug Boyer, Adam Summers, and A. Murat Maga. "SlicerMorph: An open and extensible platform to retrieve, visualize and analyse 3D morphology." Methods in Ecology and Evolution 12, no. 10 (2021): 1816-1825.
+[^22]:Porto, Arthur, Sara Rolfe, and A. Murat Maga. "ALPACA: a fast and accurate computer vision approach for automated landmarking of three‐dimensional biological structures." Methods in Ecology and Evolution 12, no. 11 (2021): 2129-2144.
+[^23] Lürig, Moritz D., Emanuela Di Martino, and Arthur Porto. "BioEncoder: A metric learning toolkit for comparative organismal biology." Ecology Letters 27, no. 8 (2024): e14495.
 <!--
 
 Additional code:
