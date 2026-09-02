@@ -18,7 +18,7 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 |Geomstats | computations, statistics, and machine learning on nonlinear manifolds using Riemannian geometry | [^2]| [link](https://geomstats.github.io)|
 |SAMS | Software for the Analysis and Mapping of Surfaces |[^13]| [link](https://github.com/RRavier/SAMS/tree/master)|
 |Neuroimaging software | There are about 600 tools designed for different datasets, and tasks starting from segmentation, to shape analysis, and time domain analysis | [^3] |[link](https://www.nitrc.org/)|
-|LDDMM registration | Registration developed for cortical areas|[^4] | | [link](https://bitbucket.org/laurent_younes/pylddmm/src/master/}|
+|LDDMM registration | Registration developed for cortical areas|[^4] | | [link](https://bitbucket.org/laurent_younes/pylddmm/src/master/)|
 |SlicerMorph | SlicerMorph streamlines digital morphology research by enabling effortless data import, visualization, measurement, annotation, and geometric morphometric analysis on 3D data, including volumetric scans (CTs and MRs) and 3D surface scans, all within the 3D Slicer application | [^5] |[link](https://slicermorph.github.io)|
 |geomorph | Widely used R package for multivariate analysis with shape data | [^6]| | [link](https://cran.r-project.org/web/packages/geomorph/)|
 |MorphoJ | GUI platform for multivariate analysis with shape data, such as partial least squares, asymmetry and quantitative genetics | [^7]| |[link](https://morphometrics.uk/MorphoJ_page.html)|
