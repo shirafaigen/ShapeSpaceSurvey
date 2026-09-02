@@ -26,7 +26,7 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 |CT-Surfacing | Segment and create 3D models using a medical CT scanner | [^9]|[link](https://github.com/jwcalder/CT-Surfacing)|
 |Virtual Goniometer| measuring angles on 3D models | [^10], [^11]| [link](https://amaaze.umn.edu/software), [link](https://github.com/oneil571/AMAAZE-MCT-Processing)|
 |Auto3dgm | Alignment of 3D shapes, by matching their PCA principal axis, and applying  minimum spanning tree on the shape distances | [^12]| [link](https://github.com/ToothAndClaw/Auto3dgm_Python)|
-|Morphomatics | Riemannian shape spaces and geometric machine learning
+|Morphomatics | Riemannian shape spaces and geometric machine learning| [^25]| [link](https://morphomatics.github.io/)|
 |BioEncoder | supervised metric learning | [^23]| [link](https://github.com/agporto/BioEncoder)|
 |ALPACA | Fast landmark transfer from a 3D model and its associated landmark set to target 3D model | [^21], [^22]| [link](https://github.com/SlicerMorph/SlicerMorph)|
 |DeepBryo  | Deep learning-based morphometric characterization of cheilostome bryozoans | [^20]| [link](https://github.com/agporto/DeepBryo)|
@@ -70,6 +70,7 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 [^21]:Rolfe, Sara, Steve Pieper, Arthur Porto, Kelly Diamond, Julie Winchester, Shan Shan, Henry Kirveslahti, Doug Boyer, Adam Summers, and A. Murat Maga. "SlicerMorph: An open and extensible platform to retrieve, visualize and analyse 3D morphology." Methods in Ecology and Evolution 12, no. 10 (2021): 1816-1825.
 [^22]:Porto, Arthur, Sara Rolfe, and A. Murat Maga. "ALPACA: a fast and accurate computer vision approach for automated landmarking of three‐dimensional biological structures." Methods in Ecology and Evolution 12, no. 11 (2021): 2129-2144.
 [^23]: Lürig, Moritz D., Emanuela Di Martino, and Arthur Porto. "BioEncoder: A metric learning toolkit for comparative organismal biology." Ecology Letters 27, no. 8 (2024): e14495.
+[^25]: Ambellan, Felix, Martin Hanik, and Christoph von Tycowicz. "Morphomatics: Geometric morphometrics in non-Euclidean shape spaces." (2021).
 <!--
 
 Additional code:
