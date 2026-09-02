@@ -69,7 +69,7 @@ A living index of available tools and resources. Last updated: Sep 1 2026.
 [^20]:Di Martino, Emanuela, Björn Berning, Dennis P. Gordon, Piotr Kuklinski, Lee Hsiang Liow, Mali H. Ramsfjell, Henrique L. Ribeiro et al. "DeepBryo: A web app for AI‐assisted morphometric characterization of cheilostome bryozoans." Limnology and Oceanography: Methods 21, no. 9 (2023): 542-551.
 [^21]:Rolfe, Sara, Steve Pieper, Arthur Porto, Kelly Diamond, Julie Winchester, Shan Shan, Henry Kirveslahti, Doug Boyer, Adam Summers, and A. Murat Maga. "SlicerMorph: An open and extensible platform to retrieve, visualize and analyse 3D morphology." Methods in Ecology and Evolution 12, no. 10 (2021): 1816-1825.
 [^22]:Porto, Arthur, Sara Rolfe, and A. Murat Maga. "ALPACA: a fast and accurate computer vision approach for automated landmarking of three‐dimensional biological structures." Methods in Ecology and Evolution 12, no. 11 (2021): 2129-2144.
-[^23] Lürig, Moritz D., Emanuela Di Martino, and Arthur Porto. "BioEncoder: A metric learning toolkit for comparative organismal biology." Ecology Letters 27, no. 8 (2024): e14495.
+[^23]: Lürig, Moritz D., Emanuela Di Martino, and Arthur Porto. "BioEncoder: A metric learning toolkit for comparative organismal biology." Ecology Letters 27, no. 8 (2024): e14495.
 <!--
 
 Additional code:
